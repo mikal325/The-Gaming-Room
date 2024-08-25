@@ -1,2 +1,8 @@
 # The-Gaming-Room
 This is a Software Design document
+The Gaming Room is a company that hosts games over Android devices, and wanted to expand its decisions over multiple operating systems.  They wanted a gaming application called "Draw it or Loose it", to be playable on different operating systems.
+While designing the document, I found multiple similarities and differences between the three common OSes and mobile OSes. This made it easier to write efficient code to communicate the multiple OSes.
+While writing this document, I believe explaining my Executive Summary, the Requirements, Design Constraints and the System Architecutre were explained well with great detail, showcasing my knowledge of how the program was supposed to work.
+If I had to revise a section, It would be the reccomendations section.  Reccomending a specific service is a skill that I still need work on.
+The User Stories and the UML diagram was used to create this program and get it to work properly.  Meeting the clients requests is a must have for me, because their satisfaction is my #1 goal.  Their needs are the reason we need to create the project, and why it is so important that it gets done the way they want.
+I came into the software desgin field because I enjoy building things, whether physical or technical, and I believe that building software would reach more people than physical creations, and it brings me joy to make something that people would enjoy, for years to come.  In order to create a similar software to this one, I would use templates of my code to create the new software, because if its not broken, don't fix it.  It would also save the clients, and my company some money if I were to create working code quickly and efficiently.
